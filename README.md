@@ -5,5 +5,8 @@ This is 2048 game using react. This project was bootstrapped with [Create React 
 # Features 
 
 1.Undo
+
 2.Redo
+
 3.Replay
+
